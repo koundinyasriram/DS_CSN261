@@ -1,2 +1,2 @@
-# DS_CSN261
-This repo contains the questions and their implementations for the Data Structures Lab 2017 @IITR. 
+# CSN_Projects
+This repo contains the project submissions made for courses in B.Tech CSE II year IITR @IITR. 
